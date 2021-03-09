@@ -20,7 +20,7 @@ public class Dataconfiguration {
         dataSource.setDriverClassName("org.postgresql.Driver");
         dataSource.setUrl("jdbc:postgresql://localhost:5432/eventosapp");
         dataSource.setUsername("postgres");
-        dataSource.setPassword("p3dr01v0");
+        dataSource.setPassword("r0m3uv0");
 
         Properties myProperties = new Properties();
         myProperties.put("hibernate.hbm2ddl.auto", "create");
